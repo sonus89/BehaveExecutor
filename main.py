@@ -3,7 +3,7 @@
         Business Function: EOS Test Automation
         Author: Máté Gál
         Date-of-creation: 10-May-2022
-        Contact: mate.gal@schindler.com
+        Contact: gal.mateo@gmail.com
 
         Not implemented features:
             - Loading sign while "scanning files"
