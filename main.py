@@ -1,6 +1,5 @@
 """
         Description: A simple GUI tool to execute Behave tests
-        Business Function: EOS Test Automation
         Author: Máté Gál
         Date-of-creation: 10-May-2022
         Contact: gal.mateo@gmail.com
